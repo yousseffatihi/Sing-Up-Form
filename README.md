@@ -2,6 +2,8 @@
 
 I use Material Design UI go to this link [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)
 
-Preview :
 
-![XAML](https://imgur.com/a/WJELiw3)
+<p>
+  Preview :
+  </p>
+<img src="https://imgur.com/a/WJELiw3" />
